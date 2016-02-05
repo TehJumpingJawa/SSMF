@@ -1,0 +1,25 @@
+-classpath
+'/Users/cb/work/cling/master/core/target/classes:/Users/cb/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-security/8.1.8.v20121106/jetty-security-8.1.8.v20121106.jar:/Users/cb/.m2/repository/com/google/android/android/4.0.1.2/android-4.0.1.2.jar:/Users/cb/.m2/repository/org/apache/httpcomponents/httpclient/4.2.2/httpclient-4.2.2.jar:/Users/cb/.m2/repository/org/apache/httpcomponents/httpcore/4.2.3/httpcore-4.2.3.jar:/Users/cb/.m2/repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar:/Users/cb/.m2/repository/org/seamless/seamless-util/1.1.0/seamless-util-1.1.0.jar:/Users/cb/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.8.v20121106/jetty-servlet-8.1.8.v20121106.jar:/Users/cb/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-server/8.1.8.v20121106/jetty-server-8.1.8.v20121106.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-io/8.1.8.v20121106/jetty-io-8.1.8.v20121106.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-http/8.1.8.v20121106/jetty-http-8.1.8.v20121106.jar:/Users/cb/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.8.v20121106/jetty-continuation-8.1.8.v20121106.jar:/Users/cb/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-client/8.1.8.v20121106/jetty-client-8.1.8.v20121106.jar:/Users/cb/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/cb/.m2/repository/org/seamless/seamless-http/1.1.0/seamless-http-1.1.0.jar:/Users/cb/.m2/repository/org/seamless/seamless-xml/1.1.0/seamless-xml-1.1.0.jar:/Users/cb/.m2/repository/org/eclipse/jetty/jetty-util/8.1.8.v20121106/jetty-util-8.1.8.v20121106.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/Users/cb/work/cling/master/core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014 <a href="http://4thline.com">4th Line GmbH, Switzerland</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/cb/work/cling/master/core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cling Core 2.0.1 API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/cb/work/cling/master/core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Cling Core 2.0.1 API'

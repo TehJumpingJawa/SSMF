@@ -1,0 +1,27 @@
+-classpath
+'/Users/cb/work/cling/master/support/target/classes:/Users/cb/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar:/Users/cb/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar:/Users/cb/work/cling/master/core/target/cling-core-2.0.1.jar:/Users/cb/.m2/repository/org/seamless/seamless-http/1.1.0/seamless-http-1.1.0.jar:/Users/cb/.m2/repository/org/seamless/seamless-xml/1.1.0/seamless-xml-1.1.0.jar:/Users/cb/.m2/repository/org/seamless/seamless-util/1.1.0/seamless-util-1.1.0.jar:/Users/cb/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar:/Users/cb/.m2/repository/org/seamless/seamless-swing/1.1.0/seamless-swing-1.1.0.jar:/Users/cb/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/Users/cb/work/cling/master/support/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014 <a href="http://4thline.com">4th Line GmbH, Switzerland</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/cb/work/cling/master/support/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cling Support 2.0.1 API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/cb/work/cling/master/support/target/javadoc-bundle-options'
+-linkoffline
+'http://4thline.org/projects/cling/cling-core/apidocs' '/Users/cb/work/cling/master/core/target/site/apidocs'
+-use
+-version
+-windowtitle
+'Cling Support 2.0.1 API'
